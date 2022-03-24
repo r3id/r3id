@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hello, I’m Alan, and I am a developer, designer, photographer and dad.
+I’m Alan, and I am a developer, designer, photographer and dad.
 
 I’ve worked through all stages of the development life-cycle for a broad range of clients spanning many industry sectors. I find myself more at home creating user-friendly, well-crafted front-end experiences with a strong focus on usability, performance, and maintainability.
 
