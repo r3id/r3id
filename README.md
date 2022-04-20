@@ -17,7 +17,7 @@
   <!-- Programming Languages -->
   <!-- Code logo -->
   <a href="https://github.com/r3id?tab=repositories" target="_blank"><img alt="Code"
-                  src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=plex&logoColor=white">
+                  src="https://img.shields.io/badge/-code-FF5B4D?style=flat-square&logo=plex&logoColor=white">
   </a>
   <!-- Ruby -->
   <a href="https://www.ruby-lang.org/en/" target="_blank"><img alt="Ruby"
@@ -26,6 +26,10 @@
   <!-- Ruby on Rails -->
   <a href="https://rubyonrails.org" target="_blank"><img alt="Ruby on Rails"
                   src="https://img.shields.io/badge/-ruby_on_rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white">
+  </a>
+  <!-- Crystal -->
+  <a href="https://www.crystal-lang.org/" target="_blank"><img alt="Crystal"
+                  src="https://img.shields.io/badge/-crystal-000000?style=flat-square&logo=crystal&logoColor=white">
   </a>
   <br>
   <!-- JavaScript -->
