@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hey There 👋, I'm
-    <b><a target="_blank" href="https://r3id.dev.me/">Alan</a></b>
+    <b><a target="_blank" href="https://r3id.dev/">Alan</a></b>
   </samp>
 </h3>
 <br>
