@@ -8,9 +8,9 @@
 <p align="center">
   <!-- Organisation  -->
   <samp>
-  「 I create user-friendly, well-crafted front-end experiences 」
+  「 I like to create user-friendly, well-crafted front-end experiences 」
   <br>
-  「 with a strong focus on usability, performance, and maintainability 」
+  「 with a strong focus on usability, performance, and maintainability across the stack. 」
   <br>
   <br>
   </samp>
